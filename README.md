@@ -2,4 +2,4 @@
 
 ## Integrantes:
 ### - Mariana Castañeda
-### - Gabriella Marín 
+### - Gabriela Marín 
